@@ -1,5 +1,5 @@
 export const NFT_CONTRACT_ADDRESS =
-  "0xab64f58a139a463e91f601d23092F235cf22CC1c";
+  "0x3166B8E18a1CB60BaA2facd52FC46D6759e0f25d";
 export const NFT_CONTRACT_ABI = [
   {
     inputs: [
